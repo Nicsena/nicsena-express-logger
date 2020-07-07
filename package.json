@@ -1,0 +1,16 @@
+{
+  "name": "nicsena-express-logger",
+  "version": "v0.8.0-beta",
+  "description": "An express logger made by Nicsena that allows you to log IP addresses and Browser User-Agents",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "live": "nodemon server.js --ignore ./Logs/"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "express.js": "^1.0.0"
+  }
+}
