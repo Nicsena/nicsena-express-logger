@@ -1,5 +1,12 @@
 ## Nicsena Express Logger (BETA)
 
+
+# NOTICE:
+Nicsena Express Logger has been marked deprecated as of August 10, 2021 since I moved on to other projects.
+
+
+---------------------------------------
+
 Nicsena Express Logger is a logger made in express that logs IP addresses, Browser User-Agent, and Requests that has been made to the server. Request Logging, IP address logging, and Browser User-Agent logging can be disabled at anytime in the server.js file under Log Mode Variables. 
 
 Nicsena Express Logger is in BETA stage, and not yet finished. This doesn't save logs yet, and support for saving logs will be in a future update.
